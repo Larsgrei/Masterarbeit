@@ -5,6 +5,8 @@ Created on Thu Oct 20 11:33:14 2022
 @author: Lars
 """
 
+# hallo lars
+
 from __future__ import annotations # Reihenfolge im Code egal
 import numpy as np
 from numpy.linalg import norm
